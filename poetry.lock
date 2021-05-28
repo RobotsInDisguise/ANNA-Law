@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Wrapper for GPT3 API"
+name = "gpt3"
+optional = false
+python-versions = ">=3.6"
+version = "0.0.1"
+
+[metadata]
+content-hash = "9c4e8c5499b145cb24f4e0d94d85d1a44bc089080050e5f8c3487dd40417c86a"
+python-versions = "^3.8"
+
+[metadata.files]
+gpt3 = [
+    {file = "gpt3-0.0.1-py3-none-any.whl", hash = "sha256:18f23970401e71c394dd295a87297b674459a078655817241767635994fefa06"},
+    {file = "gpt3-0.0.1.tar.gz", hash = "sha256:52b1247d7fb9b7ea4987e4b260c902befb386abf651d903fdb7e73686019339e"},
+]
